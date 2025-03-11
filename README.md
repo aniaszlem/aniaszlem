@@ -1,0 +1,3 @@
+- Hi, I'm Ania Szlembarska, a PhD student in the [Poulin Research Lab](https://poulinlab.ucdavis.edu/) @ UC-Davis (she/her)
+- I'm interested in understanding how sea-level rise will alter mercury biogeochemical cycling in coastal wetlands
+- I'm always working towards sharing my science and improving data availability
